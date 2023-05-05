@@ -1,5 +1,7 @@
 # Number-Plate-Character-Recognition-using-Transfer-Learning
 
+**Colab Link:** https://colab.research.google.com/drive/1pUV86-wEuF3zO3EIbh8mnOs7oQmru7dp?usp=sharing
+
 **Dataset:** https://drive.google.com/drive/folders/1bMNXMzB_47zcpub3Z0TgKBlUV0Xekx9K?usp=share_link
 
 **Objective:**  
